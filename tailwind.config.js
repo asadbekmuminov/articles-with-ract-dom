@@ -1002,4 +1002,5 @@ export default {
     },
   },
   plugins: [require("@tailwindcss/typography"), require("daisyui")],
+  themes: ["light", "dark", "cupcake"],
 };
